@@ -1,4 +1,4 @@
-# SMTP - Small Material adn Texture Project
+# SMTP - Small Material and Texture Project
 ## SUPSI - DTI 
 
 ### Authors:
